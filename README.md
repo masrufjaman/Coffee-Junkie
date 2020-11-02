@@ -1,2 +1,2 @@
 # Coffee-Junkie
- It's just a html based web page
+ It's a coffee shop project. Using HTML & CSS.
